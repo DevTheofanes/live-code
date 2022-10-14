@@ -1,32 +1,32 @@
 {
   "data": [
     {
-      "description": "Qual o verdadeiro nome do Homem de Ferro?",
+      "question": "Qual o verdadeiro nome do Homem de Ferro?",
       "alternatives": ["Peter Parker", "Tony Stark", "Robert Bruce Banner", "Clark Kent"],
       "correct": "Tony Stark"
     },
     {
-      "description": "Qual desses pratos não é tipicamente italiano?",
+      "question": "Qual desses pratos não é tipicamente italiano?",
       "alternatives": ["Strogonoff", "Lasanha", "Risoto", "Macarronada"],
       "correct": "Strogonoff"
     },
     {
-      "description": "Qual desses super-heróis não possui um poder sobre-humano?",
+      "question": "Qual desses super-heróis não possui um poder sobre-humano?",
       "alternatives": ["Homem-aranha", "Lanterna Verde", "Batman", "Thor"],
       "correct": "Batman"
     },
     {
-      "description": "Qual destes esportes não é um esporte coletivo?",
+      "question": "Qual destes esportes não é um esporte coletivo?",
       "alternatives": ["handebol", "futebol", "judô", "basquete"],
       "correct": "judô"
     },
     {
-      "description": "Em que país nasceu o ator Tom Holland?",
+      "question": "Em que país nasceu o ator Tom Holland?",
       "alternatives": ["Estados Unidos", "Canadá", "Reino Unido", "Austrália"],
       "correct": "Reino Unido"
     },
     {
-      "description": "Em que ano foi lançado no Brasil o jogo War?",
+      "question": "Em que ano foi lançado no Brasil o jogo War?",
       "alternatives": ["1972", "1980", "1986", "1994"],
       "correct": "1972"
     }
